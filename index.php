@@ -5,7 +5,7 @@
 <head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>SONIK HTML TEMPLATE</title>
+		<title>DIVECK HTML TEMPLATE</title>
 		<meta name="description" content="The Incredible Music HTML Template">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -245,9 +245,9 @@
 					  	<div id="contacts" class="row qt-contacts">
 					  		<div class="col s12">
 					  			<h4 class="center-align">Our contacts</h4>
-					  			<p><span class="lnr lnr-smartphone"></span><span>+44 443 53 2324</span></p>
-					  			<p><span class="lnr lnr-pencil"></span><span>info@bookmenow.com</span></p>
-					  			<p><span class="lnr lnr-location"></span><span>Road Avenue, California</span></p>
+					  			<p><span class="lnr lnr-smartphone"></span><span>+57 3163636558</span></p>
+					  			<p><span class="lnr lnr-pencil"></span><span>dj-diveck@hotmail.com</span></p>
+					  			<p><span class="lnr lnr-location"></span><span>Cali, Colombia</span></p>
 					  		</div>
 					  	</div>
 					</div>
@@ -304,7 +304,7 @@
 			<div class="parallax"><img src="images/galaxy-3.jpg" alt="background"></div>
 			<div class="container center-align"  >
 				<h3 class="qt-footertitle"><img src="images/logo-footer.png" alt="Sonik Music HTML template"></h3>
-				<h5>Copyright 2016 <a href="http://qantumthemes.com/">QANTUMTHEMES</a>: TOP MUSIC WEBSITES.</h5>
+				<h5>Copyright 2016 <a href="http://djdiveck.com/">DIVECK</a>: TOP MUSIC WEBSITES.</h5>
 				<p class="qt-social">
 					<a href="#"><span class="qticon-beatport"></span></a>
 					<a href="#"><span class="qticon-facebook"></span></a>
