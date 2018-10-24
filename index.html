@@ -195,7 +195,44 @@
 		<!-- ====================== SECTION BIOGRAPHY END ================================================ -->
 
 		<!-- ====================== SECTION BOOKING AND CONTACTS ================================================ -->
-		<div id="booking" class="section section-booking qt-fullscreen scrollspy  qt-polydecor poly3">
+<div id="Content">
+	<div class="content_wrapper clearfix">
+
+		<!-- .sections_group -->
+		<div class="sections_group">
+		
+			<div class="entry-content" itemprop="mainContentOfPage">
+				<div class="section mcb-section   " style="padding-top:0px; padding-bottom:0px; background-color:"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap one clearfix"><div class="column mcb-column one-third column_column "><div class="column_attr" style=""><div style="text-align: right;">
+<h2>Escriba su mensaje</h2>
+<p><big>Si tiene alguna pregunta, por favor no dude en enviarnos un mensaje. Responderemos dentro de 24 horas.</big></p>
+</div></div></div>
+
+<div class="column mcb-column two-third column_column "><div class="column_attr" style=""><div role="form" class="wpcf7" id="wpcf7-f10-p62-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<aside> 
+ 
+<FORM ACTION="contact.php" METHOD="post" name="freecontactform" id="freecontactform" onsubmit="return validate.check(this)">
+ 
+<div class="column one-third"><label for="first_name">Nombre</label> <INPUT type="text" name="first_name"  size="40" aria-required="true" aria-invalid="false"></INPUT> </div>
+<div class="column one-third"><label for="email">E-mail</label> <INPUT type="email" name="email"  size="40" aria-required="true" aria-invalid="false"></INPUT> </div></div>
+<div class="column one-third"><label for="telephone">Teléfono</label> <INPUT type="tel" name="telephone"  size="40" aria-invalid="false"></INPUT> </div>
+<div class="column one"><label for="message">Mensaje:</label> <span class="wpcf7-form-control-wrap your-message"><TEXTAREA  name="message" class="wpcf7-form-control wpcf7-textarea" cols="40" rows="10" aria-invalid="false" ></TEXTAREA> </div>
+<br>
+<div class="column one"><INPUT type="reset" value="Borrar"> <INPUT type="submit" value="Enviar"><a href="#" onclick="document.forms['freecontactform'].submit();"></a></div>
+
+
+
+</FORM> 
+ 
+</aside> 
+</div>
+</div>
+</div>
+</div>
+
+
+		
+		<!--<div id="booking" class="section section-booking qt-fullscreen scrollspy  qt-polydecor poly3">
 			<div class="qt-valign-wrapper">
 				<div class="qt-valign flow-text">
 					<h2 class="qt-section-title" data-100p-top="opacity:0;" data-80p-top="opacity:0;" data-30p-top="opacity:1;" >BOOKING<i class="deco"></i></h2>
