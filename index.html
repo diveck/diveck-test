@@ -244,9 +244,9 @@
 
 				            	<div class="row">
 							        <div class="input-field col s12">
-								      	<p><button class="btn waves-effect waves-light" type="submit" name="action"> </a></div>
-									    	<span class="lnr lnr-rocket" a href="#" onclick="document.forms['freecontactform'].submit();"></span> Submit
-									  	</button></p>
+								      	<p><button class="btn waves-effect waves-light" type="submit" name="action">
+									    	<span class="lnr lnr-rocket"><a href="#" onclick="document.forms['freecontactform'].submit();">Submit
+									  	</button></p></a></span>
 				            		</div>
 				            	</div>
 						    </form>
