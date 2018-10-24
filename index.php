@@ -205,7 +205,7 @@
 					        <li class="tab col s6"><h5><a href="#contacts">Contacts</a></h5></li>
 					    </ul>
 						<div id="form" class="row">
-						    <form class="col s12" method="post" action="contact.php">
+						    <form class="col s12" method="post" action="contact.php" id="freecontactform" onsubmit="return validate.check(this)">
 						    	<input type="hidden" name="antispam" value="x123">
 						    	<h4 class="center-align">Get in touch!</h4>
 						      	<div class="row">
@@ -244,8 +244,8 @@
 
 				            	<div class="row">
 							        <div class="input-field col s12">
-								      	<p><button class="btn waves-effect waves-light" type="submit" name="action">
-									    	<span class="lnr lnr-rocket"></span> Submit
+								      	<p><button class="btn waves-effect waves-light" type="submit" name="action"> </a></div>
+									    	<span class="lnr lnr-rocket" a href="#" onclick="document.forms['freecontactform'].submit();"></span> Submit
 									  	</button></p>
 				            		</div>
 				            	</div>
