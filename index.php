@@ -5,7 +5,7 @@
 <head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>DIVECK HTML TEMPLATE</title>
+		<title>DJ DIVECK</title>
 		<meta name="description" content="The Incredible Music HTML Template">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -27,8 +27,8 @@
 				<div class="qt-valign">
 					<div class="container center-align"  data-50p-top="opacity:1;margin-top:0px" data-30p-top="opacity:1;" data-0p-top="opacity:0;margin-top:-700px">
 						<img src="images/logo.png" class="logo" alt="Sonik template">
-						<h4>DJ PRODUCER HTML TEMPLATE</h4>
-						<a class="btn btn-primary" target="_blank" href="https://themeforest.net/item/sonik-professional-one-page-music-dj-producer-responsive-html-template/17198389?rel=DogmaDesign">BUY THIS TEMPLATE</a>
+						<h4>DJ PRODUCER DJ DIVECK</h4>
+						<a class="btn btn-primary" target="_blank" href="http://www.djdiveck.com">DIVECK</a>
 					</div>
 				</div>
 			</div>
@@ -304,7 +304,7 @@
 			<div class="parallax"><img src="images/galaxy-3.jpg" alt="background"></div>
 			<div class="container center-align"  >
 				<h3 class="qt-footertitle"><img src="images/logo-footer.png" alt="Sonik Music HTML template"></h3>
-				<h5>Copyright 2016 <a href="http://djdiveck.com/">DIVECK</a>: TOP MUSIC WEBSITES.</h5>
+				<h5>Copyright 2018 <a href="http://djdiveck.com/">DIVECK</a>: TOP MUSIC WEBSITES.</h5>
 				<p class="qt-social">
 					<a href="#"><span class="qticon-beatport"></span></a>
 					<a href="#"><span class="qticon-facebook"></span></a>
